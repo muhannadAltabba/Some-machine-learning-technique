@@ -4,6 +4,7 @@ this notebook included:
   <li>Data cleaning </li>
   <li>Data analysis </li>
   <li>Convert non numeric features to numerical features</li>
+  <li>Feature selection</li>
   <li>Model Selection (SVM, Guassian, Desision trees)(standardization, normalization, robust Scaler, Minmax scaler)</li>
 </ul>
 
