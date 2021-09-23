@@ -1,7 +1,10 @@
 # Some-machine-learning-technique
 this notebook included:
 <ul>
-  <li>e</li>
+  <li>Data cleaning </li>
+  <li>Data analysis </li>
+  <li>Convert non numeric features to numerical features</li>
+  <li>Model Selection (SVM, Guassian, Desision trees)(standardization, normalization, robust Scaler, Minmax scaler)</li>
 </ul>
 
 
